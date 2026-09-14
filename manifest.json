@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-09-14",
+  "defaultLocale": "en",
+  "locales": {
+    "en": { "version": 1, "caseCount": 16, "complete": true },
+    "de": { "version": 1, "caseCount": 16, "complete": true },
+    "es": { "version": 1, "caseCount": 16, "complete": true },
+    "fr": { "version": 1, "caseCount": 16, "complete": true },
+    "it": { "version": 1, "caseCount": 16, "complete": true },
+    "ja": { "version": 1, "caseCount": 16, "complete": true },
+    "ko": { "version": 1, "caseCount": 16, "complete": true },
+    "nl": { "version": 1, "caseCount": 16, "complete": true },
+    "pt": { "version": 1, "caseCount": 16, "complete": true },
+    "ru": { "version": 1, "caseCount": 16, "complete": true },
+    "tr": { "version": 1, "caseCount": 16, "complete": true },
+    "vi": { "version": 1, "caseCount": 2, "complete": false },
+    "ar": { "version": 1, "caseCount": 0, "complete": false },
+    "fa": { "version": 1, "caseCount": 0, "complete": false },
+    "hi": { "version": 1, "caseCount": 0, "complete": false },
+    "id": { "version": 1, "caseCount": 0, "complete": false },
+    "iw": { "version": 1, "caseCount": 0, "complete": false },
+    "km": { "version": 1, "caseCount": 0, "complete": false },
+    "th": { "version": 1, "caseCount": 0, "complete": false },
+    "uk": { "version": 1, "caseCount": 0, "complete": false },
+    "zh": { "version": 1, "caseCount": 0, "complete": false }
+  }
+}
