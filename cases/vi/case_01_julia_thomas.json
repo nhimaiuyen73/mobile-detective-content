@@ -246,7 +246,7 @@
       {
         "type": "prompt",
         "inputType": "keyboard",
-        "placeholder": "Your name...",
+        "placeholder": "Tên bạn...",
         "saveAs": "name"
       },
       {
@@ -26065,7 +26065,7 @@
       {
         "id": "2",
         "name": "Bistro de la Gare",
-        "description": "Meeting with client",
+        "description": "Gặp khách hàng",
         "location": {
           "lat": 48.8495,
           "lng": 2.3303
